@@ -18,7 +18,7 @@ export default Main;
 
 
 // Video 2 : koden over
-// Video X : koden under
+// Video 3 : koden under
 // import React from 'react';
 // import { Link } from 'react-router';
 
@@ -34,4 +34,4 @@ export default Main;
 //     )
 //   }
 // });
-// Video X : slutt Hold "cmd" nede klikk "k" og "u" så blir "//ene" borte 
+// Video 3 : slutt Hold "cmd" nede klikk "k" og "u" så blir "//ene" borte 
