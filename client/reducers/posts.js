@@ -9,9 +9,28 @@ function posts(state = [], action) {
 
 export default posts;
 
-// Video 7 : koden over
-// Video X : koden under
 
+------------------------
+// Video 7 : koden over
+// Video 9 : koden under
+------------------------
+
+
+// function posts(state = [], action) {
+//   console.log("The post will change");
+//   console.log(state, action);
+//   return state;
+// }
+
+// export default posts;
+
+
+
+
+------------------------
+// Video 9 : koden over
+// Video X : koden under
+------------------------
 
 // function posts(state = [], action) {
 //     switch(action.type) {
@@ -29,3 +48,9 @@ export default posts;
 //   }
   
 //   export default posts;
+
+  
+------------------------
+// Video X : koden over
+// Video X : koden under
+------------------------
