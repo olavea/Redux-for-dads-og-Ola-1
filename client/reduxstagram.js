@@ -45,7 +45,7 @@ render(<Main/>, document.getElementById('root'));
 
 
 // Video 4 : koden over
-// Video X : koden under
+// Video 8 : koden under
 
 //import React from 'react';
 
@@ -76,3 +76,6 @@ render(<Main/>, document.getElementById('root'));
 // )
 
 // render(router, document.getElementById('root'));
+
+// Video 8 : koden over
+// Video x : koden under
